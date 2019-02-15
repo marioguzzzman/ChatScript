@@ -1,0 +1,7 @@
+/Users/marioguzman/Desktop/CHATSCRIPT/ChatScript-content/private/ROSE/functions.top
+/Users/marioguzman/Desktop/CHATSCRIPT/ChatScript-content/private/ROSE/ABILITIES/
+/Users/marioguzman/Desktop/CHATSCRIPT/ChatScript-content/private/ROSE/CONTROL/
+/Users/marioguzman/Desktop/CHATSCRIPT/ChatScript-content/private/ROSE/TOPICS/
+/Users/marioguzman/Desktop/CHATSCRIPT/ChatScript-content/private/ROSE/QUIBBLE/
+/Users/marioguzman/Desktop/CHATSCRIPT/ChatScript-content/private/ROSE/rosecontrol.top
+

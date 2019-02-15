@@ -1,0 +1,16 @@
+topic: ~INTRODUCTIONS ( ~emogoodbye ~emohello ~emohowzit )
+
+t: Where am I?
+
+# ^respond(~answers)
+# u: PLACE ([in on here] a _[planet table nowhere]) # search for a general name
+
+u: PLACE ( _10 ) # RULE + LABEL + PATTERN search for a general name
+
+  $place = _0
+
+  Okay, so $place . What a strange place to be...
+
+# it does not goes to gambit automatically?
+
+?: Are you a human?

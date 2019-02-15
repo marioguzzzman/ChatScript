@@ -1,0 +1,25 @@
+topic: ~INTRODUCTIONS ( ~emogoodbye ~emohello ~emohowzit )
+
+t: Where am I?
+
+# ^respond(~answers)
+# u: PLACE ([in on here] a _[planet table nowhere]) # search for a general name
+
+u: PLACE ( _* ) # RULE + LABEL + PATTERN search for a general name
+
+  $place = _0
+
+  Okay, so $place . What a strange place to be...
+
+# it does not goes to gambit automatically?
+
+?: Are you a human?
+
+  #! your name
+	a: (~yes) Wow, I always wanted to meet one. What is your name? #  REJOINDER after a question. then there is PATTERN for a set of CONCEPTS of collection of words, then a GAMBIT or control the bot has over the conversation.
+	#! I am not
+	a: (~no) What are you?
+
+t: Hi Mario, I can feel you typing, but would like to follow even more things.
+
+t: Hi Mario, I can feel you typing, but would like to follow even more things.
